@@ -1,13 +1,14 @@
-Keywords: 
-Bayes theorem, probabilistic models, probabilistic programming, probability distributions, Bayesian inference, decision-making, uncertainty.
+<strong>Keywords:</strong> Bayes theorem, probabilistic models, probabilistic programming, probability distributions, Bayesian inference, decision-making, uncertainty.
 
-Definition: 
-Bayesian programming (or probabilistic programming) is a method to specify probabilistic models, run bayesian inference and solve problems even when little information is available. It help to reason with incomplete and uncertain information.
 
-Programming
-Python: PyMC3, PyStan
+<strong>Definition:</strong> Bayesian programming (or probabilistic programming) is a method to specify probabilistic models, run bayesian inference and solve problems even when little information is available. It help to reason with incomplete and uncertain information.
 
-Sources (by date): 
+
+<strong>Programming:</strong> Python: PyMC3, PyStan
+
+
+<strong>Sources (by date): </strong>
+
 Thomas Wiecki. (2016). Bayesian Deep Learning. http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/
 
 Jonathan Sedar. (2016). pymc3 vs pystan. https://github.com/jonsedar/pymc3_vs_pystan 
